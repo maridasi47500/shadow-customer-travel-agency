@@ -1,6 +1,6 @@
 # README
 - bienvenue sur shadow travel agency customer , ou le client/la cliente  de l'agence de voyage est sur le palier de sa maison la veille/le matin ou jour même de son départ , prêt(e) pour les aventures
-- qui ne détermine qui elle/il pourrait dans le courant de son voyage, pendant un jour de voyage, ou pendant un long voyage hors de sa maison
+- ca détermine pas qui elle/il pourrait dans le courant de son voyage, pendant un jour de voyage, ou pendant un long voyage hors de sa maison
 - le voyageur a beaucoup de secret ou de devenir secrets 
 
 - Voici comment s'organise techniquement cette **base de données de « secrets » et de devenirs** sous forme d'une table relationnelle simple :
